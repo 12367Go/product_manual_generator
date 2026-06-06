@@ -29,4 +29,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: product-manual-generator
-          path: dist/产品手册生成器/
+          path: dist/product_manual_generator/
